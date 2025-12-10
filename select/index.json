@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "パラサイト",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-10T12:21:39.449579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パラサイト",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_パラサイト_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パラサイト",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_パラサイト_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パラサイト / Parasite",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_パラサイト___Parasite_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラサイト",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_パラサイト_DECO_27.txt"
+    }
+  ]
+}
